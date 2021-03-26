@@ -24,6 +24,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/yWxJJ5hEI8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Link (in case it doesn't display): http://g.recordit.co/yWxJJ5hEI8.gif (29 sec)
+
 
 # Parstagram - Part I
 
